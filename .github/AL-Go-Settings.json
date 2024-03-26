@@ -3,9 +3,10 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "DeployToMy-QA": {
     "EnvironmentName": "SandboxTest",
-    "continuousDeployment": true
+    "continuousDeployment": false
   },
   "DeployToPROD": {
+    "EnvironmentName": "Production",
     "continuousDeployment": false
   }
 }
