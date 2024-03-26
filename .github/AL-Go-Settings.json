@@ -4,5 +4,8 @@
   "DeployToMy-QA": {
     "EnvironmentName": "SandboxTest",
     "continuousDeployment": true
+  },
+  "DeployToPROD": {
+    "continuousDeployment": false
   }
 }
